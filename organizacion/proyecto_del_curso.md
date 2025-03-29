@@ -24,7 +24,7 @@ Tu propuesta (1-2 páginas) debe incluir:
 4. **Metodología** propuesta, incluyendo un **cronograma de hitos** para las tareas principales.  
 5. **Posibles amenazas a la validez** y problemas que podrías encontrar, junto con estrategias para mitigarlos.  
 
-📌 **Plazos**  
+📌 **Plazos (pueden ser ajustados según la necesidad del grupo)**  
 - El informe de la propuesta debe entregarse **3 días antes de la presentación** (ver la página de cronograma para detalles).  
 - La propuesta debe enviarse por correo electrónico.  
 - Las **diapositivas** de la presentación deben enviarse **el día de la presentación antes de las 8:00 p. m.**  
