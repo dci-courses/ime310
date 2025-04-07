@@ -4,6 +4,7 @@
 # Planificación del Curso
 
 [Calendario en google doc](https://docs.google.com/spreadsheets/d/1Rqg5dp994o54CCFSjvMt1g_CJWYKmfhg/edit?gid=1765228485#gid=1765228485)
+[Lecturas y Presentaciones por semana](https://docs.google.com/spreadsheets/d/1IT9w5xQi6B3n9hFIekxFg5R9j6bnYc5r0HeUYluk5t8/edit?usp=sharing)
 
 ![calendario](calendario.png)
  
