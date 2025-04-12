@@ -7,7 +7,7 @@
 
 [Lecturas y Presentaciones por semana](https://docs.google.com/spreadsheets/d/1IT9w5xQi6B3n9hFIekxFg5R9j6bnYc5r0HeUYluk5t8/edit?usp=sharing)
 
-![calendario](calendario.png)
+![calendario](calendar.png)
  
 ---
 - [Overview](organizacion/overview.md)
